@@ -10,7 +10,7 @@
             <param name='embed_code_version' value='3' />
             <param name='site_root' value='' />
             <param name='name' value='FurnitureRetailsDashboard&#47;Dashboard1' />
-            <param name='tabs' value='yes' />
+            <param name='tabs' value='no' />
             <param name='toolbar' value='no' />
             <param name='static_image'
                 value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fu&#47;FurnitureRetailsDashboard&#47;Dashboard1&#47;1.png' />
